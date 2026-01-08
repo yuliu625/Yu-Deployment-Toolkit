@@ -1,7 +1,19 @@
-# https://nodejs.org/en/download
-# node.js在Windows OS麻烦的地方在于: 开发需要npm，而npm需要chocolatey。
-# 仅使用node.js，可使用windows installer .msi 文件实现。
+<#
+.SYNOPSIS
+    安装node.js的方法。
 
+.LINK
+    https://github.com/yuliu625/Yu-Deployment-Toolkit/windows/intall_nodejs.ps1
+
+.LINK
+    https://nodejs.org/en/download
+
+.NOTES
+    Source: https://github.com/yuliu625/Yu-Deployment-Toolkit/windows/intall_nodejs.ps1
+    Reference: https://nodejs.org/en/download
+    node.js在Windows OS麻烦的地方在于: 开发需要npm，而npm需要chocolatey。
+    仅使用node.js，可使用windows installer .msi 文件实现。
+#>
 
 # Download and install Chocolatey:
 # 这个更好的实现，查看这个仓库的 windows/install_chocolatey.ps1
