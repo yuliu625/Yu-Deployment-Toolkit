@@ -1,5 +1,20 @@
-# url: https://chocolatey.org/
-# 安装choco管理工具。
+<#
+.SYNOPSIS
+    安装choco的方法。
+
+.LINK
+    https://github.com/yuliu625/Yu-Deployment-Toolkit/windows/intall_chocolatey.ps1
+
+.LINK
+    https://chocolatey.org/
+
+.NOTES
+    Source: https://github.com/yuliu625/Yu-Deployment-Toolkit/windows/intall_chocolatey.ps1
+    Reference: https://chocolatey.org/
+
+    安装choco管理工具。
+#>
+
 
 # 首先检查目录，chocolatey会拒绝已有文件下安装。
 # 目录在: C:\ProgramData\chocolatey
