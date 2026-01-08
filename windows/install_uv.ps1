@@ -1,5 +1,19 @@
-# https://docs.astral.sh/uv/getting-started/installation/
-# 在windows操作系统上，独立安装uv的方法。
+<#
+.SYNOPSIS
+    安装uv的方法。
+
+.LINK
+    https://github.com/yuliu625/Yu-Deployment-Toolkit/windows/intall_uv.ps1
+
+.LINK
+    https://docs.astral.sh/uv/getting-started/installation/
+
+.NOTES
+    Source: https://github.com/yuliu625/Yu-Deployment-Toolkit/windows/intall_uv.ps1
+    Reference: https://docs.astral.sh/uv/getting-started/installation/
+
+    在windows操作系统上，独立安装uv的方法。
+#>
 
 
 # 通过官方安装脚本。
