@@ -24,7 +24,7 @@
 
 ## 相关项目
 我维护的其他工具库，可能对你有用: 
-- **[Python-Environment-Configs](https://github.com/yuliu625/Yu-Python-Environment-Configs)**: 针对 Python 工具链（Pip, Conda, UV 等）的环境配置仓库。
+- **[Python-Environment-Configurations](https://github.com/yuliu625/Yu-Python-Environment-Configurations)**: 针对 Python 工具链（Pip, Conda, UV 等）的环境配置仓库。
 - **[Deployment-Toolkit](https://github.com/yuliu625/Yu-Deployment-Toolkit)**: 原始 OS 脚本（Shell/PowerShell）的工具包合集。
 - **[CLI-Wrapper](https://github.com/yuliu625/Yu-CLI-Wrapper)**: 用 Python 封装的复杂 CLI 工具集，让操作更安全友好。
 
