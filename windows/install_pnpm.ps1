@@ -10,7 +10,7 @@
 
 .NOTES
     Source: https://github.com/yuliu625/Yu-Deployment-Toolkit/windows/intall_pnpm.ps1
-    Reference: https://docs.astral.sh/uv/getting-started/installation/
+    Reference: https://pnpm.io/installation
 
     由于我受够了npm导致的node_modules等相关问题的笨重，在理解更加现代化的工具如uv的链接和缓存机制后，我将npm迁移至pnpm。
     其他可选的工具有:
