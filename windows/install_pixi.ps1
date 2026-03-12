@@ -13,3 +13,11 @@
     Reference: https://pixi.prefix.dev/latest/
 #>
 
+
+# 通过官方安装脚本。
+powershell -ExecutionPolicy Bypass -c "irm -useb https://pixi.sh/install.ps1 | iex"
+
+
+# 通过 winget
+winget install prefix-dev.pixi
+
