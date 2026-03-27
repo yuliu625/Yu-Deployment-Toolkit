@@ -1,18 +1,24 @@
-# url: https://termux.dev/en/
+# Source: https://github.com/yuliu625/Yu-Deployment-Toolkit/termux/init.sh
+# Reference: https://termux.dev/en/
+
+# 刚安装 termux 后，初始化系统。
 # 初始化，安装必要的文件。
 
-# 我会去使用的repositories
+
+# 配置常见的 repositories
 pkg install root-repo
 pkg install x11-repo
+
 
 # 必要的工具
 pkg intall vim
 pkg intall openssh-client
 
+
 # 子环境
 pkg install proot-distro
 ## 安装ubuntu
-proot-distro install 安装ubuntu
+proot-distro install ubuntu
 ## ubuntu中的设置
 proot-distro login ubuntu
 apt update
