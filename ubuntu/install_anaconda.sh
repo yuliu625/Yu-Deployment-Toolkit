@@ -1,11 +1,15 @@
-# url: https://www.anaconda.com/download/success#download
-# anaconda官方主页一直在变得更加复杂，但是目前科研领域大多使用anaconda。
-# 我这里记录anaconda的安装流程。但对于开发，anaconda现在不是最优的。
+# Source: https://github.com/yuliu625/Yu-Deployment-Toolkit/ubuntu/install_anaconda.sh
+# Reference: https://www.anaconda.com/download/success#download
+
+# anaconda 官方主页一直在变得更加复杂，但是目前科研领域大多使用 anaconda 。
+# 我这里记录 anaconda 的安装流程。但对于开发， anaconda 现在不是最优的。
+# 以下为 linux 通用安装方法，实际上独立于 ubuntu 。
 
 # 下载官方分发的安装脚本。
 wget https://repo.anaconda.com/archive/Anaconda3-2025.06-0-Linux-x86_64.sh
 # 也可以选择轻量化的miniconda
 #wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+
 
 # 执行安装
 bash Anaconda3-2025.06-0-Linux-x86_64.sh
