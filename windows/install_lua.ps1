@@ -33,3 +33,8 @@ scoop install lua
 # 通过 choco
 choco install lua
 
+
+
+# 社区中有一个集成常用依赖的扩展版本
+## https://github.com/rjpcomputing/luaforwindows
+
