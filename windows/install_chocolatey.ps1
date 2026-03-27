@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    安装choco的方法。
+    安装 choco 的方法。
 
 .LINK
     https://github.com/yuliu625/Yu-Deployment-Toolkit/windows/intall_chocolatey.ps1
@@ -12,7 +12,7 @@
     Source: https://github.com/yuliu625/Yu-Deployment-Toolkit/windows/intall_chocolatey.ps1
     Reference: https://chocolatey.org/
 
-    安装choco管理工具。
+    安装 choco 管理工具。
 #>
 
 
