@@ -9,15 +9,23 @@
     https://nodejs.org/en/download
 
 .NOTES
-    Source: https://github.com/yuliu625/Yu-Deployment-Toolkit/windows/intall_nodejs.ps1
-    Reference: https://nodejs.org/en/download
-    node.js在 Windows OS 麻烦的地方在于: 开发需要 npm ，而 npm 需要 chocolatey 。
+    Sources:
+        https://github.com/yuliu625/Yu-Deployment-Toolkit/windows/intall_nodejs.ps1
+
+    References:
+        https://nodejs.org/en/download
+
+    node.js在 Windows OS 麻烦的地方在于:
+        开发需要 npm ，而 npm 需要 chocolatey 。
+
     仅使用 node.js ，可使用windows installer .msi 文件实现。
 #>
+
 
 # Download and install Chocolatey:
 # 这个更好的实现，查看这个仓库的 windows/install_chocolatey.ps1
 # powershell -c "irm https://community.chocolatey.org/install.ps1|iex"
+
 
 # Download and install Node.js:
 choco install nodejs --version="24.11.1"
