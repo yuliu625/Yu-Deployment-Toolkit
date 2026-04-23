@@ -9,8 +9,11 @@
     https://pixi.prefix.dev/latest/
 
 .NOTES
-    Source: https://github.com/yuliu625/Yu-Deployment-Toolkit/windows/intall_pnpm.ps1
-    Reference: https://pixi.prefix.dev/latest/
+    Sources:
+        https://github.com/yuliu625/Yu-Deployment-Toolkit/windows/intall_pnpm.ps1
+
+    References:
+        https://pixi.prefix.dev/latest/
 #>
 
 
