@@ -9,8 +9,11 @@
     https://www.lua.org/
 
 .NOTES
-    Source: https://github.com/yuliu625/Yu-Deployment-Toolkit/windows/intall_lua.ps1
-    Reference: https://www.lua.org/
+    Sources:
+        https://github.com/yuliu625/Yu-Deployment-Toolkit/windows/intall_lua.ps1
+
+    References:
+        https://www.lua.org/
 #>
 
 
