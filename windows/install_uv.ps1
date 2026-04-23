@@ -9,8 +9,11 @@
     https://docs.astral.sh/uv/getting-started/installation/
 
 .NOTES
-    Source: https://github.com/yuliu625/Yu-Deployment-Toolkit/windows/intall_uv.ps1
-    Reference: https://docs.astral.sh/uv/getting-started/installation/
+    Sources:
+        https://github.com/yuliu625/Yu-Deployment-Toolkit/windows/intall_uv.ps1
+
+    References:
+        https://docs.astral.sh/uv/getting-started/installation/
 
     在 windows 操作系统上，独立安装 uv 的方法。
 #>
