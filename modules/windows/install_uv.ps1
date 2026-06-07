@@ -3,14 +3,14 @@
     安装 uv 的方法。
 
 .LINK
-    https://github.com/yuliu625/Yu-Deployment-Toolkit/windows/intall_uv.ps1
+    https://github.com/yuliu625/Yu-Deployment-Toolkit/blob/main/modules/windows/intall_uv.ps1
 
 .LINK
     https://docs.astral.sh/uv/getting-started/installation/
 
 .NOTES
     Sources:
-        https://github.com/yuliu625/Yu-Deployment-Toolkit/windows/intall_uv.ps1
+        https://github.com/yuliu625/Yu-Deployment-Toolkit/blob/main/modules/windows/intall_uv.ps1
 
     References:
         https://docs.astral.sh/uv/getting-started/installation/
