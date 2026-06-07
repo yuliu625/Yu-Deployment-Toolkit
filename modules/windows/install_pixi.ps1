@@ -3,14 +3,14 @@
     安装 pixi 的方法。
 
 .LINK
-    https://github.com/yuliu625/Yu-Deployment-Toolkit/windows/intall_pixi.ps1
+    https://github.com/yuliu625/Yu-Deployment-Toolkit/blob/main/modules/windows/intall_pixi.ps1
 
 .LINK
     https://pixi.prefix.dev/latest/
 
 .NOTES
     Sources:
-        https://github.com/yuliu625/Yu-Deployment-Toolkit/windows/intall_pnpm.ps1
+        https://github.com/yuliu625/Yu-Deployment-Toolkit/blob/main/modules/windows/intall_pnpm.ps1
 
     References:
         https://pixi.prefix.dev/latest/
