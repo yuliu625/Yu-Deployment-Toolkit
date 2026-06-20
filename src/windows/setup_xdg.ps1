@@ -3,14 +3,14 @@
     设置基于 XDG 规范的环境变量。
 
 .LINK
-    https://github.com/yuliu625/Yu-Deployment-Toolkit/blob/main/modules/windows/setup_xdg.ps1
+    https://github.com/yuliu625/Yu-Deployment-Toolkit/blob/main/src/windows/setup_xdg.ps1
 
 .LINK
     https://specifications.freedesktop.org/basedir/latest/
 
 .NOTES
     Sources:
-        https://github.com/yuliu625/Yu-Deployment-Toolkit/blob/main/modules/windows/setup_xdg.ps1
+        https://github.com/yuliu625/Yu-Deployment-Toolkit/blob/main/src/windows/setup_xdg.ps1
 
     References:
         https://specifications.freedesktop.org/basedir/latest/
