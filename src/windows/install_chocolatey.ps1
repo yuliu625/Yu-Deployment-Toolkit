@@ -3,14 +3,14 @@
     安装 choco 的方法。
 
 .LINK
-    https://github.com/yuliu625/Yu-Deployment-Toolkit/blob/main/modules/windows/intall_chocolatey.ps1
+    https://github.com/yuliu625/Yu-Deployment-Toolkit/blob/main/src/windows/intall_chocolatey.ps1
 
 .LINK
     https://chocolatey.org/
 
 .NOTES
     Sources:
-        https://github.com/yuliu625/Yu-Deployment-Toolkit/blob/main/modules/windows/intall_chocolatey.ps1
+        https://github.com/yuliu625/Yu-Deployment-Toolkit/blob/main/src/windows/intall_chocolatey.ps1
 
     References:
         https://chocolatey.org/
