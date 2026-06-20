@@ -1,4 +1,4 @@
-# Source: https://github.com/yuliu625/Yu-Deployment-Toolkit/blob/main/modules/ubuntu/install_anaconda.sh
+# Source: https://github.com/yuliu625/Yu-Deployment-Toolkit/blob/main/src/ubuntu/install_anaconda.sh
 # Reference: https://www.anaconda.com/download/success#download
 
 # anaconda 官方主页一直在变得更加复杂，但是目前科研领域大多使用 anaconda 。
