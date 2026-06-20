@@ -3,14 +3,14 @@
     安装 lua 的方法。
 
 .LINK
-    https://github.com/yuliu625/Yu-Deployment-Toolkit/blob/main/modules/windows/intall_lua.ps1
+    https://github.com/yuliu625/Yu-Deployment-Toolkit/blob/main/src/windows/intall_lua.ps1
 
 .LINK
     https://www.lua.org/
 
 .NOTES
     Sources:
-        https://github.com/yuliu625/Yu-Deployment-Toolkit/blob/main/modules/windows/intall_lua.ps1
+        https://github.com/yuliu625/Yu-Deployment-Toolkit/blob/main/src/windows/intall_lua.ps1
 
     References:
         https://www.lua.org/
