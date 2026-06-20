@@ -1,4 +1,4 @@
-# Source: https://github.com/yuliu625/Yu-Deployment-Toolkit/blob/main/modules/termux/init.sh
+# Source: https://github.com/yuliu625/Yu-Deployment-Toolkit/blob/main/src/termux/init.sh
 # Reference: https://termux.dev/en/
 
 # 刚安装 termux 后，初始化系统。
