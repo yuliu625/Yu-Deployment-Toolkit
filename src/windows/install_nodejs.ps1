@@ -3,14 +3,14 @@
     安装 node.js 的方法。
 
 .LINK
-    https://github.com/yuliu625/Yu-Deployment-Toolkit/blob/main/modules/windows/intall_nodejs.ps1
+    https://github.com/yuliu625/Yu-Deployment-Toolkit/blob/main/src/windows/intall_nodejs.ps1
 
 .LINK
     https://nodejs.org/en/download
 
 .NOTES
     Sources:
-        https://github.com/yuliu625/Yu-Deployment-Toolkit/blob/main/modules/windows/intall_nodejs.ps1
+        https://github.com/yuliu625/Yu-Deployment-Toolkit/blob/main/src/windows/intall_nodejs.ps1
 
     References:
         https://nodejs.org/en/download
